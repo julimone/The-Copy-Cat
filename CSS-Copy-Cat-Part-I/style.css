@@ -1,0 +1,83 @@
+header {
+    display: flex;
+    justify-content: end ;
+    background-color:rgb(36, 33, 33);
+    color: white;
+    padding: 20px 6px 20px 6px;
+    font-family: sans-serif;
+    text-align: center;
+ 
+}
+.headbutton2{
+    background-color: blue;
+}
+    
+
+
+header button{
+    background-color: black;
+    border: 2px solid white ;
+    border-radius: 16px ;
+    padding: 10px 170px 10px 10px;
+    font-family:sans-serif;
+    color: white;
+    margin: 16px 16px;    
+
+}
+nav{
+    padding: 10px 10px 10px 10px;
+    background-color:#342f2f;   
+    position: sticky;
+    top: 1px;
+    
+}
+nav, a{
+    font-family:sans-serif;
+    color: white;
+    text-decoration: none;
+    justify-content: space-around;
+    padding: 6px 14px 6px 14px;
+}
+main {
+    font-family: sans-serif;
+    background-color:white;
+    text-align: center;
+    padding-bottom: 30px;
+}
+h1{
+    padding: 60px 10px 60px 10px;
+}
+p {
+    padding-top:40px;
+    padding-bottom: 40px;
+}
+div button{
+
+    font-family: sans-serif;
+    border-radius: 15px;  
+    border: none;
+    
+}
+.button1{
+    background-color: #63f542;
+    
+}
+.button2{
+    background-color: black;
+    color: white;
+
+}
+footer {
+    background-color: black;
+    font-family: sans-serif;
+    color: lightgray;
+    position:absolute;
+}
+p{
+    padding: 10px 10px 1px 10px;
+}
+.content p{
+    -webkit-column-count: 5;
+    -webkit-column-gap: 50px;
+}
+
